@@ -1,0 +1,6 @@
+{
+  "name": "Mangal Murti Hospital - Account & Financial Management System",
+  "description": "Comprehensive hospital accounting, OPD/IPD patient billing, doctor share settlement, daily cashbook, and financial ledger for Mangal Murti Hospital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
